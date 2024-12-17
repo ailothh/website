@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.7b1f5d4b.css",
+    "main.js": "/website/static/js/main.3517da0f.js",
+    "static/js/146.398f699d.chunk.js": "/website/static/js/146.398f699d.chunk.js",
+    "static/media/image.png": "/website/static/media/image.ccbf27ea321220d50dd6.png",
+    "static/media/Alex_Winkler_Resume.pdf": "/website/static/media/Alex_Winkler_Resume.fa0b7818a1e827a827d5.pdf",
+    "static/media/react-icon.svg": "/website/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "static/media/github.svg": "/website/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "index.html": "/website/index.html",
+    "static/media/linkedin.svg": "/website/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "main.7b1f5d4b.css.map": "/website/static/css/main.7b1f5d4b.css.map",
+    "main.3517da0f.js.map": "/website/static/js/main.3517da0f.js.map",
+    "146.398f699d.chunk.js.map": "/website/static/js/146.398f699d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b1f5d4b.css",
+    "static/js/main.3517da0f.js"
+  ]
+}
