@@ -4,7 +4,7 @@ import linkedin from './assets/linkedin.svg';
 import githubIcon from './assets/github.svg';
 import heroImage from './assets/image.png';
 import reactLogo from './assets/react-icon.svg';
-
+import resume from './assets/Alex_Winkler_Resume.pdf';
 /* Container */
 const Container = styled.section`
   display: flex;
@@ -180,8 +180,9 @@ export function Hero() {
 
         {/* Button and Social Media Icons below the text */}
         <div className="button-container">
-          <button className="button">CV/Resume</button>
-
+          <button className="button">
+            <a href={resume} download="Alex_Winkler_Resume.pdf" style={{ color: "inherit", textDecoration: "none" }}>CV/Resume</a>
+          </button>
           {/* Social media icons */}
           <div className="social-media">
             <a href="https://www.linkedin.com/in/alex-winkler-2a55422b3/" target="_blank" rel="noreferrer">
