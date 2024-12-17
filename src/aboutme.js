@@ -175,7 +175,7 @@ export function Hero() {
       <div className="left-content">
         <div className="hero-text">
           <p>Hello, I'm</p>
-          <h1>Alexander Winkler</h1>
+          <h1>Alexander Winkle</h1>
         </div>
 
         {/* Button and Social Media Icons below the text */}
